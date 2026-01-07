@@ -1,0 +1,4 @@
+* GustawXYZ's K1 Max Klipper config
+
+Mainsail moonraker etc were installed using: https://guilouz.github.io/Creality-Helper-Script-Wiki/
+
